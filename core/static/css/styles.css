@@ -1,0 +1,102 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+    #links-tvm a {
+     text-decoration: none;
+      color: #796f6f;
+      
+
+    }
+
+    #links-tvm a:hover {
+      color: red;
+      
+    }
+
+    .navbar-brand
+              {
+              font-family: 'Acme', sans-serif;
+              font-size: 40px;
+              
+                
+              }
+
+    .tvm-list li {
+      text-decoration: none;
+      text-align: left;
+      list-style-type: none;
+
+    }
+    #menu-tvm {
+      text-align: center;
+      font-size: 15px;
+      color: #FFF;
+      font-weight: 700;
+
+    }
+    #menu-tvm:hover {
+      padding-top: 1px;
+      transition: 0.5s;
+      background-color: rgb(3, 3, 3);
+      font-size: 15px;
+     
+
+    }
+    
+    #links-tvm {
+      text-decoration: none;
+    }
+
+    #links-page a {
+      text-decoration: none;
+      color: black;
+
+    }
+
+    #links-page a:hover {
+      padding-top: 1px;
+      transition: 0.5s;
+      background-color: rgb(211, 174, 174);
+      background-size: 2px;
+      
+    }
+
+    #more-tools {
+      text-align: center;
+      font-size: 15px;
+      color: #FFF;
+      font-weight: 700;
+      text-align: center;
+      align-items: center;
+    }
+
+    #more-tools:hover {
+      padding: 5px;
+      transition: 0.5s;
+      background-color: rgb(3, 3, 3);
+      font-size: 15px;
+    }
+
+    #ul-menu {
+      background-color: #0D6EFD;
+    }
+
+    #footer-tvm {
+      margin: 20px;
+      text-align: center;
+      padding: 5px;
+      align-items: center;
+     
+
+    }
